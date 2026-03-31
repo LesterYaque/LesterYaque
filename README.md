@@ -6,12 +6,12 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
   </h3>
-  <a href="https://www.facebook.com/thesaravanakumar" target="_blank"><img src="https://github.com/user-attachments/assets/37c1638c-5d7a-4bc6-a233-c4cdb54d121a" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/thesaravanakumar/" target="_blank"><img src="https://github.com/user-attachments/assets/d04cb07b-f6c9-421f-937c-952211263117" width="120px" alt="Twitter" align="right"></a>
+  <a href="https://www.linkedin.com/in/lesteryaque/" target="_blank"><img src="https://github.com/user-attachments/assets/37c1638c-5d7a-4bc6-a233-c4cdb54d121a" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://open.spotify.com/playlist/5Df75HKYBrYmn9sTTkS1YL?si=K6QRxgS7T5O04QNIToid8A" target="_blank"><img src="https://github.com/user-attachments/assets/d04cb07b-f6c9-421f-937c-952211263117" width="120px" alt="Twitter" align="right"></a>
 
 ¡Hola! Tengo 19 años y me apasiona las redes y telecomunicaciones 📡.
 
 
-</a> 🎧 Si te gusta escuchar música mientras estudias o aprendes tecnología, aquí tienes una de mis playlists:
+</a> 🎧 Si te gusta escuchar música mientras estudias o aprendes tecnología, aquí tienes una de mis playlists
 
 Me encanta explorar cómo viajan los datos y configurar infraestructuras que conectan al mundo. Actualmente, estoy enfocado en mejorar mis habilidades en administración de servidores y seguridad informática.
 
