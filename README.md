@@ -9,10 +9,10 @@
   </h3>
   <a href="https://www.facebook.com/thesaravanakumar" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127344027-e36cd957-8c9b-40f7-84ed-6da175648343.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/thesaravanakumar/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
-Hey! I'm a 21-year-old software engineer working out of Tamil Nadu, India. Check out some of my Spotify 
+¡Hola! Tengo 19 años y me apasiona las redes y telecomunicaciones 📡.
 <a href="https://open.spotify.com/user/4ycd6kmdj6we6n7dbj9aw2r3e">
   <img alt="Saro's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> playlists if you ❤ listening to music while you code.
+</a> 🎧 Si te gusta escuchar música mientras estudias o aprendes tecnología, aquí tienes una de mis playlists:
 
 Interests: OpenSource Contribution, Video Games [ The Last of Us, Uncharted, God of War, Horizon Zero Dawn, Resident Evil, and more! ], Design [ Web Design, Level Design, Character Design, Scripting ].
 
