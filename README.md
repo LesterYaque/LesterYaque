@@ -15,6 +15,36 @@
 
 Me encanta explorar cómo viajan los datos y configurar infraestructuras que conectan al mundo. Actualmente, estoy enfocado en mejorar mis habilidades en administración de servidores y seguridad informática.
 
+<h3>Estructura de mis Laboratorios (Redes)</h3>
+
+<ul>
+    <li><strong>/redes-labs</strong>
+        <ul>
+            <li><strong>/routing</strong>
+                <ul>
+                    <li><a href="./redes-labs/routing/ospf-multi-area-gns3/">/ospf-multi-area-gns3</a>
+                        <ul>
+                            <li><a href="./redes-labs/routing/ospf-multi-area-gns3/topologia.gns3">topologia.gns3</a></li>
+                            <li><a href="./redes-labs/routing/ospf-multi-area-gns3/configuraciones_running_config.txt">configuraciones_running_config.txt</a></li>
+                            <li><a href="./redes-labs/routing/ospf-multi-area-gns3/README.md">README.md</a> (Explicando aprendizaje)</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><strong>/switching</strong>
+                <ul>
+                    <li><a href="./redes-labs/switching/vlan-inter-routing/">/vlan-inter-routing</a></li>
+                </ul>
+            </li>
+            <li><strong>/scripts</strong>
+                <ul>
+                    <li><a href="./redes-labs/scripts/powershell-automation/">/powershell-automation</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+</ul>
+
 <p align="center">
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
