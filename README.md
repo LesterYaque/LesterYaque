@@ -10,7 +10,7 @@
 ¡Hola! Tengo 19 años y me apasiona las redes y telecomunicaciones 📡.
 
 
-</a> 🎧 Si te gusta escuchar música mientras estudias o aprendes tecnología, aquí tienes una de mis playlists
+</a> 🎧 Si te gusta escuchar música mientras estudias o aprendes tecnología, aquí tienes una playlists
 
 <a href="https://www.linkedin.com/in/lesteryaque/" target="_blank"><img src="https://github.com/user-attachments/assets/37c1638c-5d7a-4bc6-a233-c4cdb54d121a" height="120px" width="120px" alt="Twitter"></a><a href="https://open.spotify.com/playlist/5Df75HKYBrYmn9sTTkS1YL?si=K6QRxgS7T5O04QNIToid8A" target="_blank"><img src="https://github.com/user-attachments/assets/d04cb07b-f6c9-421f-937c-952211263117" width="120px" alt="Twitter"></a>
 
