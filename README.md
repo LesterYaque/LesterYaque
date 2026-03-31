@@ -1,7 +1,7 @@
 <h3 align="center">
   
   <img width="1584" height="396" alt="Black and White Minimalist Journalist LinkedIn Banner" src="https://github.com/user-attachments/assets/b88cdeae-3aed-407c-a2b2-803a6a7fe5f5" />
-  Bienvenido soy Lester!
+  ¡Bienvenido soy Lester!
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
